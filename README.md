@@ -10,4 +10,4 @@ This script accepts *.fastq.gz files as input and generated consensus viral geno
 
 ## Bayesian Branch Rate Estimates
 
-The samogitia.py script was originally from Gytis Dudas.  If you don't know him, he does amazing work!  Check him out [here](https://github.com/evogytis).  The samogitia.py script was orignally modified by Jason Ladner (for EBOV semen sequencing rate estimates) and re-used to calculate the branch rate estimates from all available Mbandaka sequences, only Tumba 2018 sequences, or only the branch leading to the Tumba-like re-emerged EBOV variant.
+The samogitia_subrate.py script was originally from Gytis Dudas.  If you don't know him, he does amazing work!  Check him out [here](https://github.com/evogytis).  The samogitia.py script was orignally modified by Jason Ladner (for EBOV semen sequencing rate estimates) and re-used to calculate the branch rate estimates from all available Mbandaka sequences, only Tumba 2018 sequences, or only the branch leading to the Tumba-like re-emerged EBOV variant.
